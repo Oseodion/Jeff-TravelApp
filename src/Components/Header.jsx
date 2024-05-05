@@ -188,12 +188,8 @@ function Header() {
         </div>
         <div className='section5'>
           <h2>Subscribe to get information, latest news and other interesting offers from JD</h2>
-          <div>
-            <form action="submit">
-            <input type="email" placeholder='Your Email...' />
-            <button>Subscribe</button>
-            </form>
-          </div>
+          <div><input type="email" placeholder='Your Email...' />
+            <button>Subscribe</button></div>
         </div>
         <footer>
           <div className='footer1'>
